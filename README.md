@@ -32,7 +32,7 @@ An end-to-end Python market research project analyzing **177,861 electric vehicl
 ev-market-size-analysis/
 │
 ├── 📂 data/
-│   └── Electric_Vehicle_Population_Data.csv     # Raw source data (177,866 rows) Currently I can upload a file
+│   └── Electric_Vehicle_Population_Data.csv     # Raw source data (177,866 rows) Currently I can't upload a file
 │
 ├── 📂 notebooks/
 │   └── ev_market_size_analysis.py               # Full analysis script, phase by phase
